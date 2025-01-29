@@ -22,7 +22,7 @@ PEMILIK BERHASIL DI HAPUS
 
 ![image](https://github.com/user-attachments/assets/3ecbf887-edc3-4645-8ec8-c5f420ca70de)
 
-TAMPILAN HOME JENNI PROPERTI
+TAMPILAN HOME JENIS PROPERTI
 
 ![image](https://github.com/user-attachments/assets/45271d90-82bc-4c5c-b4e1-debe8dfb2604)
 
